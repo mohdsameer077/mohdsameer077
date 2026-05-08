@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Sameer
+
+🚀 Frontend Developer & BCA Student
+
+💻 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Python
+
+🌱 Building Real Projects & Exploring AI
+
+📫 Contact Me
+- anasrisameer77@gmail.com
+
+## Projects
+- Portfolio Website
+- Landing Pages
+- Real Estate Website
+
+## Goals 2026
+- Become Full Stack Developer
+- Work with International Clients
+- Build AI Based Projects
 
 <!--
 **mohdsameer077/mohdsameer077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
